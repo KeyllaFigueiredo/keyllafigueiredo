@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Keylla Figueiredo
 
 - 🔭 Atualmente estou trabalhando com suporte em sistemas SaaS
-- 🌱 Estudando atualmente Análise e Desenvolvimento de Sistemas
+- 🌱 Finalizando graduação em Análise e Desenvolvimento de Sistemas
+- 🌱 Pós-Graduação em Engenharia de Software com Ênfase em Qualidade e Teste de Software
 - 👯 Colaborando com projetos de aplicações na faculdade
 - 📫 Contate-me no e-mail: keyllaroberta@hotmail.com
 - 😄 Pronouns: ela/dela
